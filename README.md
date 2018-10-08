@@ -2,9 +2,10 @@
 een universeel inventory script in c#
 
 Features:
-//Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
-Awesome Algoritme
-Specifieke Mechanic
+inventory voor opgepakte items
+je kan items verwijderen in de inventory.
+je kan items gebruiken in de inventory.
+je kan de items in een andere volgorde zetten in de inventory.
 
 Waar ben ik trots op in dit project:
 
@@ -14,23 +15,18 @@ Een inventory maken die verschillende soorten items heeft, en die van volgorde v
 
 Planning:
 //Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
-
-maandag
-dinsdag
-woensdag
-donderdag
+week1
+maandag: tekening van benodigd heden gemaakt
+dinsdag:  objecten aangemaakt
+woensdag: player movement, player collision, item script en inventory script gemaakt
+donderdag:  collecting bug gefikst.
 vrijdag
-week 1
-
-
-
-
 
 week 2
+maandag:  ?
 
 
 
 
-
-Bronnen
-//Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
+Bronnen:
+https://www.youtube.com/watch?v=ZI6DwJtjlBA ui voorbeeld
